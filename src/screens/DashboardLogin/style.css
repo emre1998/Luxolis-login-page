@@ -1,0 +1,177 @@
+.dashboard-login {
+  background-color: #2148c0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard-login .overlap-wrapper {
+  background-color: #2148c0;
+  height: 720px;
+  overflow: hidden;
+  width: 1280px;
+}
+
+.dashboard-login .overlap {
+  height: 1083px;
+  left: -362px;
+  position: relative;
+  top: -1px;
+  width: 1642px;
+}
+
+.dashboard-login .BG {
+  height: 1083px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1642px;
+}
+
+.dashboard-login .overlap-group {
+  background-color: #264ec9;
+  border-radius: 362px;
+  height: 724px;
+  left: 0;
+  position: absolute;
+  top: 359px;
+  width: 724px;
+}
+
+.dashboard-login .ellipse {
+  background-color: #234bc5;
+  border-radius: 286px;
+  height: 572px;
+  left: 76px;
+  position: absolute;
+  top: 76px;
+  width: 572px;
+}
+
+.dashboard-login .div {
+  background-color: #274ec7;
+  border-radius: 219px;
+  height: 438px;
+  left: 143px;
+  position: absolute;
+  top: 143px;
+  width: 438px;
+}
+
+.dashboard-login .vector {
+  height: 720px;
+  left: 778px;
+  position: absolute;
+  top: 1px;
+  width: 864px;
+}
+
+.dashboard-login .form {
+  height: 398px;
+  left: 852px;
+  position: absolute;
+  top: 162px;
+  width: 302px;
+}
+
+.dashboard-login .username {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 169px;
+  width: 302px;
+}
+
+.dashboard-login .overlap-group-2 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 4px;
+  height: 45px;
+  position: relative;
+  width: 300px;
+}
+
+.dashboard-login .text-wrapper {
+  color: #030000;
+  font-family: "Montserrat", Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  left: 50px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 12px;
+  white-space: nowrap;
+}
+
+.dashboard-login .img {
+  height: 20px;
+  left: 11px;
+  position: absolute;
+  top: 12px;
+  width: 20px;
+}
+
+.dashboard-login .password {
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 234px;
+  width: 302px;
+}
+
+.dashboard-login .login-btn {
+  all: unset;
+  box-sizing: border-box;
+  height: 45px;
+  left: 0;
+  position: absolute;
+  top: 322px;
+  width: 302px;
+}
+
+.dashboard-login .login-wrapper {
+  background-color: #ffffff;
+  border-radius: 4px;
+  box-shadow: 0px 4px 4px #0000004c;
+  height: 45px;
+  position: relative;
+  width: 300px;
+}
+
+.dashboard-login .login {
+  color: #2148c0;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  left: 123px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 13px;
+  white-space: nowrap;
+}
+
+.dashboard-login .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Montserrat", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 154px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 378px;
+}
+
+.dashboard-login .group {
+  height: 101px;
+  left: 88px;
+  position: absolute;
+  top: -2px;
+  width: 123px;
+}
